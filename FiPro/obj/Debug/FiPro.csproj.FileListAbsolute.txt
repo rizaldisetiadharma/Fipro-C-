@@ -1,0 +1,256 @@
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\bin\Debug\FiPro.exe.config
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\bin\Debug\FiPro.exe
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\bin\Debug\FiPro.pdb
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.csprojResolveAssemblyReference.cache
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.Form1.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.Properties.Resources.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.csproj.GenerateResource.Cache
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.exe
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.pdb
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.Beranda.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.DataPelanggar.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.GalleryPelanggar.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.Siswa.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.DaftarSanksi.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.View.Yakin.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.Peraturan.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.SimpanPDF.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.View.Pastikan.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.View.HapusSiswa.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.View.Sukses.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.View.TambahSiswa.resources
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\bin\Debug\MySql.Data.dll
+D:\Kuliah\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.View.PilihTingkat.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\bin\Debug\FiPro.exe.config
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.exe
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.pdb
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Beranda.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Properties.Resources.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.csproj.GenerateResource.Cache
+D:\Kuliah\Bongkar\FiPro\FiPro\bin\Debug\FiPro.exe
+D:\Kuliah\Bongkar\FiPro\FiPro\bin\Debug\FiPro.pdb
+D:\Kuliah\Bongkar\FiPro\FiPro\bin\Debug\MySql.Data.dll
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Beranda.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_DataPelanggaran.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_GalleryPelanggar.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Siswa.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Peraturan.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Sanksi.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_SimpanPDF.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Login.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Pastikan.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Yakin.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.PilihTingkat.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Sukses.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.HapusSiswa.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.TambahSiswa.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.YakinLogout.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\bin\Debug\itextsharp.xml
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.View.Gagal.resources
+D:\Kuliah\Bongkar\FiPro\FiPro\obj\Debug\FiPro.csprojResolveAssemblyReference.cache
+D:\Bongkar\FiPro\FiPro\bin\Debug\FiPro.exe.config
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.exe
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.pdb
+D:\Bongkar\FiPro\FiPro\bin\Debug\FiPro.exe
+D:\Bongkar\FiPro\FiPro\bin\Debug\FiPro.pdb
+D:\Bongkar\FiPro\FiPro\bin\Debug\MySql.Data.dll
+D:\Bongkar\FiPro\FiPro\bin\Debug\itextsharp.xml
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.csprojResolveAssemblyReference.cache
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Beranda.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.View.Gagal.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.HapusSiswa.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Login.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Pastikan.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.PilihTingkat.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Properties.Resources.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Sukses.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.TambahSiswa.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Beranda.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_DataPelanggaran.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_GalleryPelanggar.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Peraturan.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Sanksi.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_SimpanPDF.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Siswa.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Yakin.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.YakinLogout.resources
+D:\Bongkar\FiPro\FiPro\obj\Debug\FiPro.csproj.GenerateResource.Cache
+D:\UJICIBA\Bongkar\FiPro\FiPro\bin\Debug\FiPro.exe.config
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.exe
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.pdb
+D:\UJICIBA\Bongkar\FiPro\FiPro\bin\Debug\FiPro.exe
+D:\UJICIBA\Bongkar\FiPro\FiPro\bin\Debug\FiPro.pdb
+D:\UJICIBA\Bongkar\FiPro\FiPro\bin\Debug\MySql.Data.dll
+D:\UJICIBA\Bongkar\FiPro\FiPro\bin\Debug\itextsharp.xml
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.csprojResolveAssemblyReference.cache
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Beranda.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.View.Gagal.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.HapusSiswa.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Login.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Pastikan.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.PilihTingkat.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Properties.Resources.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Sukses.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.TambahSiswa.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Beranda.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_DataPelanggaran.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_GalleryPelanggar.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Peraturan.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Sanksi.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_SimpanPDF.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Siswa.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Yakin.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.YakinLogout.resources
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.csproj.GenerateResource.Cache
+D:\UJICIBA\Bongkar\FiPro\FiPro\obj\Debug\FiPro.View.UpdateSiswa.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\bin\Debug\FiPro.exe.config
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.exe
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.pdb
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\bin\Debug\FiPro.exe
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\bin\Debug\FiPro.pdb
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\bin\Debug\MySql.Data.dll
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\bin\Debug\itextsharp.xml
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.csprojResolveAssemblyReference.cache
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Beranda.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.View.Gagal.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.HapusSiswa.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Login.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Pastikan.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.PilihTingkat.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Properties.Resources.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Sukses.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.TambahSiswa.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Beranda.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_DataPelanggaran.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_GalleryPelanggar.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Peraturan.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Sanksi.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_SimpanPDF.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Siswa.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.View.UpdateSiswa.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Yakin.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.YakinLogout.resources
+D:\UJICIBA - 2\Bongkar\FiPro\FiPro\obj\Debug\FiPro.csproj.GenerateResource.Cache
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\bin\Debug\FiPro.exe.config
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.exe
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.pdb
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\bin\Debug\FiPro.exe
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\bin\Debug\FiPro.pdb
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\bin\Debug\MySql.Data.dll
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\bin\Debug\itextsharp.xml
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.csprojResolveAssemblyReference.cache
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Beranda.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.View.Gagal.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.HapusSiswa.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Login.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Pastikan.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.PilihTingkat.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Properties.Resources.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Sukses.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.TambahSiswa.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Beranda.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_DataPelanggaran.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_GalleryPelanggar.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Peraturan.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Sanksi.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_SimpanPDF.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Siswa.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.View.UpdateSiswa.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Yakin.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.YakinLogout.resources
+D:\FIPRO\UJICIBA - 3\Bongkar\FiPro\FiPro\obj\Debug\FiPro.csproj.GenerateResource.Cache
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\bin\Debug\FiPro.exe.config
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.exe
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.pdb
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\bin\Debug\FiPro.exe
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\bin\Debug\FiPro.pdb
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\bin\Debug\MySql.Data.dll
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\bin\Debug\itextsharp.xml
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.csprojResolveAssemblyReference.cache
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Beranda.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.View.Gagal.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.HapusSiswa.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Login.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Pastikan.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.PilihTingkat.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Properties.Resources.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Sukses.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.TambahSiswa.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Beranda.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_DataPelanggaran.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_GalleryPelanggar.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Peraturan.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Sanksi.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_SimpanPDF.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.UC_Siswa.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.View.UpdateSiswa.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.Yakin.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.YakinLogout.resources
+D:\FIPRO\DONT TRY THIS ONE\Bongkar\FiPro\FiPro\obj\Debug\FiPro.csproj.GenerateResource.Cache
+D:\Fixed\FiPro\FiPro\bin\Debug\FiPro.exe.config
+D:\Fixed\FiPro\FiPro\bin\Debug\FiPro.exe.manifest
+D:\Fixed\FiPro\FiPro\bin\Debug\FiPro.application
+D:\Fixed\FiPro\FiPro\bin\Debug\FiPro.exe
+D:\Fixed\FiPro\FiPro\bin\Debug\FiPro.pdb
+D:\Fixed\FiPro\FiPro\bin\Debug\MySql.Data.dll
+D:\Fixed\FiPro\FiPro\bin\Debug\itextsharp.xml
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.csprojResolveAssemblyReference.cache
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.Beranda.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.View.Gagal.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.HapusSiswa.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.Login.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.Pastikan.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.PilihTingkat.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.Properties.Resources.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.Sukses.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.TambahSiswa.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.UC_Beranda.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.UC_DataPelanggaran.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.UC_GalleryPelanggar.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.UC_Peraturan.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.UC_Sanksi.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.UC_SimpanPDF.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.UC_Siswa.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.View.UpdateSiswa.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.Yakin.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.YakinLogout.resources
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.csproj.GenerateResource.Cache
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.csproj.CoreCompileInputs.cache
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.exe.manifest
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.application
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.exe
+D:\Fixed\FiPro\FiPro\obj\Debug\FiPro.pdb
+D:\Pemrograman Lanjut\FiPro\FiPro\bin\Debug\FiPro.exe.config
+D:\Pemrograman Lanjut\FiPro\FiPro\bin\Debug\FiPro.exe.manifest
+D:\Pemrograman Lanjut\FiPro\FiPro\bin\Debug\FiPro.application
+D:\Pemrograman Lanjut\FiPro\FiPro\bin\Debug\FiPro.exe
+D:\Pemrograman Lanjut\FiPro\FiPro\bin\Debug\FiPro.pdb
+D:\Pemrograman Lanjut\FiPro\FiPro\bin\Debug\MySql.Data.dll
+D:\Pemrograman Lanjut\FiPro\FiPro\bin\Debug\itextsharp.xml
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.csprojResolveAssemblyReference.cache
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.Beranda.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.View.Gagal.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.HapusSiswa.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.Login.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.Pastikan.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.PilihTingkat.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.Properties.Resources.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.Sukses.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.TambahSiswa.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.UC_Beranda.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.UC_DataPelanggaran.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.UC_GalleryPelanggar.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.UC_Peraturan.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.UC_Sanksi.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.UC_SimpanPDF.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.UC_Siswa.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.View.UpdateSiswa.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.Yakin.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.YakinLogout.resources
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.csproj.GenerateResource.Cache
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.csproj.CoreCompileInputs.cache
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.exe.manifest
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.application
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.exe
+D:\Pemrograman Lanjut\FiPro\FiPro\obj\Debug\FiPro.pdb
